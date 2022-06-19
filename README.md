@@ -1,0 +1,2 @@
+This is a simple python appication which can perform cleanup of your messy folders. i.e creates separate folders for various file formats (AUDIO, VIDEO, TEXT, IMAGES) and for unmatched files it moves them into a MISC folder.
+USE app2.py for better results.
